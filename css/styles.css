@@ -1,1 +1,27 @@
-h1 { color:#FF0000; }
+
+
+h1 { color:#412D45;
+    text-decoration:underline;
+    text-align:center;
+    margin:auto;
+    }
+
+h2 { color:#6466A3;
+    text-decoration:bold
+    }
+
+P.center {
+text-align: center;
+}
+
+
+body {
+    background-image: url("http://i.imgur.com/EHC13Xs.png");
+}
+
+
+<style>
+a:link    {color:#353645; background-color:transparent; text-decoration:none}
+a:visited {color:#734C70; background-color:transparent; text-decoration:none}
+a:hover   {color:#E8B65F; background-color:transparent; text-decoration:underline}
+</style>
